@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SqlLib
+build_property.ProjectDir = C:\Repos\SharedStorage\SqlLib\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

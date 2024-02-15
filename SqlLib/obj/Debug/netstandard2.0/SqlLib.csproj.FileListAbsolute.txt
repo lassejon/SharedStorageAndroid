@@ -1,0 +1,5 @@
+C:\Repos\SharedStorage\SqlLib\obj\Debug\netstandard2.0\SqlLib.csproj.AssemblyReference.cache
+C:\Repos\SharedStorage\SqlLib\obj\Debug\netstandard2.0\SqlLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SharedStorage\SqlLib\obj\Debug\netstandard2.0\SqlLib.AssemblyInfoInputs.cache
+C:\Repos\SharedStorage\SqlLib\obj\Debug\netstandard2.0\SqlLib.AssemblyInfo.cs
+C:\Repos\SharedStorage\SqlLib\obj\Debug\netstandard2.0\SqlLib.csproj.CoreCompileInputs.cache

@@ -8,7 +8,7 @@ using Exception = System.Exception;
 namespace SharedStorage
 {
 
-    //[ContentProvider(new string[] { Contracts.AUTHORITY }, Exported = true, Name = Contracts.AUTHORITY, Enabled = false)]
+    [ContentProvider(new string[] { Contracts.AUTHORITY }, Exported = true, Name = Contracts.AUTHORITY , Enabled = false)]
     public class SharedContentProvider : ContentProvider
     {
         public const int GET_ALL = 0; 
@@ -22,7 +22,7 @@ namespace SharedStorage
         {
             var matcher = new UriMatcher(UriMatcher.NoMatch);
 
-            // Uris to match, and the code to return when matched
+            // Uris to match, and the code to return when matched 
             matcher.AddURI(Contracts.AUTHORITY, Contracts.PATH_DATA, GET_ALL);
             matcher.AddURI(Contracts.AUTHORITY, Contracts.PATH_DATA + "/#", GET_ONE);
 
